@@ -1,0 +1,5 @@
+aayush1|AayushKansara|aayushpass|89000.0|78456.0
+shivam2|ShivamPatel|shivampass|87654.0|78000.0
+aarav3|AaravSharma|aaravpass|100500.0|90000.0
+sneha|SnehaGupta|snehapassword|25000.0|21364.0
+dipen18|Dipenpatel|dipenpassword|65000.0|49000.0
